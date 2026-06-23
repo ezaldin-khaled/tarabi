@@ -82,7 +82,7 @@ export default function HomePage() {
             <div className="relative z-10 text-center text-white space-y-2">
               <p className="font-serif text-2xl md:text-3xl tracking-wide">TARABIH</p>
               <p className="text-sm text-white/70 tracking-[0.25em] uppercase">Transport</p>
-              <p className="text-sm text-white/85 pt-4 leading-relaxed max-w-sm mx-auto">{t.brand.tagline}</p>
+              <p className="text-base md:text-lg text-white/85 pt-4 leading-relaxed max-w-md mx-auto">{t.brand.tagline}</p>
             </div>
           </div>
         </div>
